@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+
+
+  //git token = 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
   title = 'ng-finance';
 }
